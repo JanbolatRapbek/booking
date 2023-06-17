@@ -1,0 +1,67 @@
+.overlay {
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.list {
+  margin: 50px 250px;
+
+  background-color: white;
+
+  &_header {
+    display: flex;
+    justify-content: center;
+    svg {
+      margin-top: 10px;
+      padding-left: 320px;
+    }
+    h1 {
+      margin-left: 350px;
+    }
+  }
+  &_info {
+    margin-top: -44px;
+  }
+  &_content {
+    height: 500px;
+    overflow-x: scroll;
+    border: 1px solid rgb(190, 190, 190);
+    padding: 20px 5px;
+    padding-top: 10px;
+    h2 {
+      position: absolute;
+      margin-top: 10%;
+      margin-left: 24%;
+    }
+  }
+
+  svg {
+    opacity: 0.3;
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+  .card {
+    margin: 15px 10px;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+
+    h3 {
+      margin-bottom: -5px;
+    }
+  }
+}
+.content {
+  height: 150px;
+}
+.svg {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}

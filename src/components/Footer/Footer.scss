@@ -1,0 +1,22 @@
+.navbar {
+  padding-bottom: 0px;
+  height: 50px;
+  background-color: #003580;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 70px;
+}
+.navbarItems {
+  display: flex;
+  align-items: center;
+}
+button {
+  position: relative;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 5px;
+}
+.logo {
+  color: white;
+  font-size: 26px;
+}

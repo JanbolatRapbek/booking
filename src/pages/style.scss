@@ -1,0 +1,58 @@
+.login {
+  display: flex;
+  height: 100%;
+  margin-right: 38px;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  background-color: azure;
+  &_form {
+    background-color: azure;
+    display: flex;
+    width: 249px;
+    align-items: center;
+    align-content: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    input {
+      margin-left: 28px;
+      width: 200px;
+      margin-bottom: 10px;
+    }
+    button {
+      margin-left: 50px;
+    }
+  }
+}
+.register {
+  display: flex;
+  height: 100%;
+  margin-right: 38px;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  background-color: azure;
+  &_form {
+    background-color: azure;
+    display: flex;
+    width: 249px;
+    align-items: center;
+    align-content: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    input {
+      margin-left: 28px;
+      width: 200px;
+      margin-bottom: 10px;
+    }
+    button {
+      margin-left: 50px;
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Navat",
+      "imgUrl": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/article_1200_800_fallback/public/2020-11/elegant_restaurant_inside%C2%A9StockFood.jpg?itok=2-kzuTMt"
+    },
+    {
+      "id": 2,
+      "name": "Shafran",
+      "imgUrl": "https://www.dellaadventure.com/images/restaurant-cafe-24-thumb2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nedelka",
+      "imgUrl": "https://bestofnj.com/wp-content/uploads/2022/02/Son-Cubano-Hero.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Padlik",
+      "imgUrl": "https://media.architecturaldigest.com/photos/5d2c9e26ae81990009f6429f/16:9/w_2560%2Cc_limit/TAK%2520Room_by%2520Adrian%2520Gaut.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vactochka",
+      "imgUrl": "https://resizer.otstatic.com/v2/photos/wide-huge/1/24932722.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Prasdnik",
+      "imgUrl": "https://www.thehearthouse.me/wp-content/uploads/2019/07/webcover_1140x584_CC_Kenia.jpg"
+    }
+  ],
+  "booking": [
+    {
+      "restaurant": "Shafran",
+      "date": "2023-06-07",
+      "time": "19:09",
+      "guests": "15",
+      "id": 1
+    }
+  ]
+}
